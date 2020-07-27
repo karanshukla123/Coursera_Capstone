@@ -1,2 +1,5 @@
+### Jupyter Notebook allows you to combine code, comments, multimedia, and visualizations in an interactive document — called a notebook, naturally — that can be shared, re-used, and re-worked. 
+### Jupyter Notebook runs via a web browser, the notebook itself could be hosted on your local machine or on a remote server.
 import pandas as pd
 import numpy as np
+print('Hello Capstone Project Course!')
